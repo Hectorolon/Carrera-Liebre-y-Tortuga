@@ -1,0 +1,10 @@
+C:\Users\hrolo\source\repos\Tortuga y Liebre\Tortuga y Liebre\bin\Debug\Tortuga y Liebre.exe.config
+C:\Users\hrolo\source\repos\Tortuga y Liebre\Tortuga y Liebre\bin\Debug\Tortuga y Liebre.exe
+C:\Users\hrolo\source\repos\Tortuga y Liebre\Tortuga y Liebre\bin\Debug\Tortuga y Liebre.pdb
+C:\Users\hrolo\source\repos\Tortuga y Liebre\Tortuga y Liebre\obj\Debug\Tortuga y Liebre.csprojResolveAssemblyReference.cache
+C:\Users\hrolo\source\repos\Tortuga y Liebre\Tortuga y Liebre\obj\Debug\Tortuga_y_Liebre.Form1.resources
+C:\Users\hrolo\source\repos\Tortuga y Liebre\Tortuga y Liebre\obj\Debug\Tortuga_y_Liebre.Properties.Resources.resources
+C:\Users\hrolo\source\repos\Tortuga y Liebre\Tortuga y Liebre\obj\Debug\Tortuga y Liebre.csproj.GenerateResource.Cache
+C:\Users\hrolo\source\repos\Tortuga y Liebre\Tortuga y Liebre\obj\Debug\Tortuga y Liebre.csproj.CoreCompileInputs.cache
+C:\Users\hrolo\source\repos\Tortuga y Liebre\Tortuga y Liebre\obj\Debug\Tortuga y Liebre.exe
+C:\Users\hrolo\source\repos\Tortuga y Liebre\Tortuga y Liebre\obj\Debug\Tortuga y Liebre.pdb
